@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: dproz-dev
+      uri: "mongodb://rwUser:rwUserPass@localhost:27017/dproz-dev"
